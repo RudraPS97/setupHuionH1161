@@ -15,4 +15,4 @@ The scrip also asks for Sudoer's or Root's password.
 
 1. It only works on system with ```KDE``` and ```kdialog``` installed.
 2. Install Digimend drivers.
-3. run the script.
+3. Run the script.
